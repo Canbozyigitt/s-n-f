@@ -8,7 +8,7 @@ class Person:
 
 
 
-can=Person("Cano")
+can=Person("CANO")
 can.talk()          
 '''
 print("Hello ")
